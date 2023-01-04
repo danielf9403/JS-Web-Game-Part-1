@@ -31,5 +31,4 @@ newItem('assets/staff.png', 600, 100)
 newItem('assets/grass.png', 750, 60)
 newItem('assets/boulder.png', 750, 90)
 
-newItem('assets/sword.png', 500, 405)
-newItem('assets/sword.png', 500, 405)
+
